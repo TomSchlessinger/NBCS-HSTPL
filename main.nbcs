@@ -1,0 +1,9 @@
+SAY ]"Hello World"[ GOTO_2
+VAR i ]6[ GOTO_3
+concord ]"10" + "3"[ GOTO_4
+additionify ]10 + 3[ GOTO_0
+END END END END END END END
+END END END END END END
+
+
+
